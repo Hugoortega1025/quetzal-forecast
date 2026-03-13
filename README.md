@@ -1,4 +1,4 @@
-# Forecasting the Guatemalan QUetzal Exchage Rate
+# Forecasting the Guatemalan Quetzal Exchage Rate
 
 ## Overview
 This project analyzes and forecasts the USD / GTQ exchange rate using time series forecasting techniques in R.
